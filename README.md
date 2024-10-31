@@ -11,6 +11,6 @@ This repository contains data about GitHub users in Moscow with over 50 follower
 ## Data Collection
 
 - Data collected using GitHub API
-- Date of collection: 2024-10-23
+- Date of collection: 31-10-2024
 - Only included users with 100+ followers
 - Up to 500 most recently pushed repositories per user
